@@ -8,7 +8,7 @@ SUMMARY = "tedge is the cli tool for thin-edge.io"
 HOMEPAGE = "https://thin-edge.io"
 LICENSE = "Apache-2.0"
 
-RDEPENDS:${PN} = " mosquitto ca-certificates libgcc glibc-utils libxcrypt sudo collectd"
+RDEPENDS:${PN} += " mosquitto ca-certificates libgcc glibc-utils libxcrypt sudo"
 
 # This prevents disabling crates.io registry in cargo_do_configure task and
 # allows cargo to fetch dependencies during the do_compile step.
