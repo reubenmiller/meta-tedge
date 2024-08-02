@@ -1,0 +1,1 @@
+tedge  ALL = (ALL) NOPASSWD: /usr/bin/swupdate, /usr/bin/fw_printenv, /usr/bin/fw_setenv, /etc/tedge/operations/swupdate_workflow.sh, /usr/bin/tedgectl
