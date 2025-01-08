@@ -1,0 +1,20 @@
+header:
+  version: 14
+overrides:
+  repos:
+    meta-clang:
+      commit: b33aa9c7f54807c113c44b0f2c15a5c5d88ae5ee
+    meta-lts-mixins-go:
+      commit: 7b4c22b4114c5789a6cb7d8b0b7c7078cd9f0dc9
+    meta-lts-mixins-rust:
+      commit: 9bc06b6a761f28cf82aae8a99afe27ed5e2ce4c9
+    meta-mender:
+      commit: ca667e65861e0cec32dcefd8e4eb42b1bd82ed6d
+    meta-openembedded:
+      commit: 7b3fdcdfaab2fc964bbf9eec2cce4e03001fa8cf
+    meta-starfive:
+      commit: 9cf308f7e891538697ef2dd34d47bf6f14e3e359
+    meta-virtualization:
+      commit: a055d7dcafc58855081a5eac9a46b93b9b51012b
+    poky:
+      commit: ce1fa3eec036c866e1c0fb091057349f203ea6a2
