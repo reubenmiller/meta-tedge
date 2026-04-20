@@ -5,4 +5,4 @@ header:
 local_conf_header:
   meta-usb-wifi: |
     DISTRO_FEATURES:append = " wifi"
-    IMAGE_INSTALL:append = " linux-firmware-rt2870"
+    IMAGE_INSTALL:append = " linux-firmware-ralink"
