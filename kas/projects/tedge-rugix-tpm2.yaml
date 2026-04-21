@@ -9,6 +9,7 @@ header:
     - ../config/rugix-raspberrypi.yaml
     - ../config/network.yaml
     - ../config/monitor.yaml
+    - ../config/admin.yaml
     - ../config/package-management.yaml
     - ../config/tedge-docker.yaml
     - ../config/tedge-nodered.yaml
@@ -46,6 +47,7 @@ repos:
       meta-networking:
       meta-multimedia:
       meta-filesystems:
+      meta-webserver:
 
   # Required for tpm2
   meta-security:
