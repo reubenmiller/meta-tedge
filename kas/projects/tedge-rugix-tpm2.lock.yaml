@@ -5,7 +5,7 @@ overrides:
     poky:
       commit: b301218f4da7793624db3545efd8bf66888b77b0
     meta-raspberrypi:
-      commit: 2c646d29912dcc873469a57b1c207e1549c5094d
+      commit: 018d44467c4f09eb63f8ea5e86e85d755250cf89
     meta-openembedded:
       commit: 4d3e2639dec542b58708244662d5ce36810fc510
     meta-security:
